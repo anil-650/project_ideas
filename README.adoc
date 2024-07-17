@@ -1,0 +1,35 @@
+= My Project Ideas
+== Project ideas professional or personal.
+
+.PID RULES:
+[IMPORTANT]
+====
+* Project ID must strat with either *_P or R_* followed by the day the idea came up wihtout  any special characters (format _ddmmyy_)
+** *P* - personal project
+** *R* - Professional project
+====
+
+.Project Ideas
+[cols="1,1,1,6a"]
+|===
+|Date | PID| Project Name | Project Aim
+
+|15/07/24
+|P150724
+|Electricity bill division app
+|* Calculate electricity usage by boath households
+along iwth the water pump usage.
+* Calculate ammount payable by both households.
+* keep track of thr bills payments, electricity usage.
+* Generate graph of above metrics mentioned
+
+|18/07/24
+|R170724
+|Delightful Treats
+|* Make a store front for the small cupcake baking startup.
+* Showcase available products.
+* Optional
+** Odering system
+** payment system
+** Package tracking system
+|===
