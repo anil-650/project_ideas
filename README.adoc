@@ -1,9 +1,10 @@
 = My Project Ideas
 == Project ideas professional or personal.
 
-[ IMPORTANT ]
-.PID RULES
+[IMPORTANT]
 ====
+PID RULES
+
 * Project ID must strat with either *_P or R_* followed by the day the idea came up wihtout  any special characters (format _ddmmyy_)
 ** *P* - personal project
 ** *R* - Professional project
