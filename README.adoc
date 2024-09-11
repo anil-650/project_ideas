@@ -41,4 +41,15 @@ along iwth the water pump usage.
 ** Odering system
 ** payment system
 ** Package tracking system
+
+|11/09/24
+|P110924
+|An app for tourism purpose 
+|* App will mostly include places from Odisha
+* App will display places sourced mostly from instagram as it has more hidden
+  gems
+* Will include weather data
+* App will have direction or share it to _google maps_
+* If possible information about tourism spot clouser or other hazardous info
+  will need to be sourced from somewhere.
 |===
