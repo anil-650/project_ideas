@@ -13,7 +13,7 @@ endif::[]
 ====
 PID RULES
 
-* Project ID must strat with either *_P or R_* followed by the day the idea came up wihtout  any special characters (format _ddmmyy_)
+* Project ID must start with either *_P or R_* followed by the day the idea came up without  any special characters (format _ddmmyy_)
 ** *P* - personal project
 ** *R* - Professional project
 ====
@@ -26,17 +26,17 @@ PID RULES
 |27/06/24
 |R270624
 |2nd hand e-book store/library
-|* Inspiration came from  [Bookchor](https://bookchor.com)
+|* Inspiration came from  https://bookchor.com[Bookchor]
 * Main purpose is to not depend on local book stores and making 2nd hand book
   trading easy.
 
 |15/07/24
 |P150724
 |Electricity bill division app
-|* Calculate electricity usage by boath households
-along iwth the water pump usage.
-* Calculate ammount payable by both households.
-* keep track of thr bills payments, electricity usage.
+|* Calculate electricity usage by both households
+along with the water pump usage.
+* Calculate amount payable by both households.
+* keep track of the bills payments, electricity usage.
 * Generate graph of above metrics mentioned
 
 |18/07/24
@@ -45,18 +45,35 @@ along iwth the water pump usage.
 |* Make a store front for the small cupcake baking startup.
 * Showcase available products.
 * Optional
-** Odering system
+** Ordering system
 ** payment system
 ** Package tracking system
 
 |11/09/24
 |P110924
-|An app for tourism purpose 
+|An app for tourism purpose
 |* App will mostly include places from Odisha
-* App will display places sourced mostly from instagram as it has more hidden
+* App will display places sourced mostly from Instagram as it has more hidden
   gems
 * Will include weather data
 * App will have direction or share it to _google maps_
-* If possible information about tourism spot clouser or other hazardous info
+* If possible information about tourism spot closer or other hazardous info
   will need to be sourced from somewhere.
+
+|20/09/24
+|P200924
+|E-Blood bank app
+|* Similar projects exists like https://eraktkosh.mohfw.gov.in/BLDAHIMS/bloodbank/transactions/bbpublicindex.html[eRaktkosh] and https://eblood.odisha.gov.in/[eblood odisha] by Govt.
+* Target: people in need of blood donation in-case they can't exchange donate for the person.
+* Donor registration and tracking(also track the donors donation cycle), along with location of nearby blood bank.
+* Show and register blood donation camps.
+* note: Govt.
+  https://www.data.gov.in/catalog/blood-bank-directory-national-health-portal[india's blood bank api]
+
+|20/09/24
+|R200924
+|C2C Clothes renting e-store
+|* Target: People in need of specific types of clothes for an occasion, i.e. People needing suits for interview
+* Chatting facility
+* note: will need pre-populated skq for inventory from s3 bucket.
 |===
