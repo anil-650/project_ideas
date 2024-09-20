@@ -23,6 +23,13 @@ PID RULES
 |===
 |Date | PID| Project Name | Project Aim
 
+|27/06/24
+|R270624
+|2nd hand e-book store/library
+|* Inspiration came from  [Bookchor](https://bookchor.com)
+* Main purpose is to not depend on local book stores and making 2nd hand book
+  trading easy.
+
 |15/07/24
 |P150724
 |Electricity bill division app
