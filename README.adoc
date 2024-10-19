@@ -76,4 +76,14 @@ along with the water pump usage.
 |* Target: People in need of specific types of clothes for an occasion, i.e. People needing suits for interview
 * Chatting facility
 * note: will need pre-populated skq for inventory from s3 bucket.
+
+|18/10/24
+|R181024
+|Grameen(Shakti/Bazaar/Udyog)
+|*  GrameenBazaar is an online platform dedicated to showcasing and selling products crafted by women entrepreneurs from rural areas. The platform aims to empower these women by providing them with a broader market reach, thereby enhancing their economic independence and promoting sustainable development.
+* Target: **Primary**: Women entrepreneurs in rural areas looking to expand their market reach.
+**Secondary**: Consumers interested in unique, handcrafted products and supporting women-led businesses.
+* create an accessible online marketplace for rural women entrepreneurs.
+* promote and preserve traditional crafts and local products.
+* contribute to the economic development of rural areas by increasing the visibility and sales of locally made products.
 |===
